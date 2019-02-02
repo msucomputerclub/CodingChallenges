@@ -1,3 +1,7 @@
+// Pascals Triangle Problem
+// Leetcode Difficulty: Easy
+// Date: 01/30/2019
+
 package pascals_triangles;
 import java.util.*;
 
